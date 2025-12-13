@@ -14,134 +14,44 @@ The goal of this project is to help stakeholders understand key accident pattern
 - Visualize accident locations geographically
 - Highlight high-risk road types
 
-📊 Key Metrics Displayed
+## Key Metrics Displayed
+- Total Accidents
+- Total Casualties
+- Fatal Casualties
+- Serious Casualties
+- Slight Casualties
+- Year-over-Year (YoY) comparison
 
-Total Accidents
+## Dashboard Features
+- KPI cards with trend sparklines
+- Vehicle-wise fatal casualty analysis
+- Donut charts for weather and road surface conditions
+- Bar charts for road type analysis
+- Geographical map showing accident locations
 
-Total Casualties
+### Interactive filters:
+- Year selection (Current vs Previous)
+- Accident severity filter
 
-Fatal Casualties
+## Tools & Technologies
+- Tableau Desktop
+- Microsoft Excel / CSV (Data Source)
 
-Serious Casualties
-
-Slight Casualties
-
-Year-over-Year (YoY) comparison
-
-
-
----
-
-📈 Dashboard Features
-
-KPI cards with trend sparklines
-
-Vehicle-wise fatal casualty analysis
-
-Donut charts for weather and road surface conditions
-
-Bar charts for road type analysis
-
-Geographical map showing accident locations
-
-Interactive filters:
-
-Year selection (Current vs Previous)
-
-Accident severity filter
-
-
-
-
----
-
-🛠 Tools & Technologies
-
-Tableau Desktop
-
-Microsoft Excel / CSV (Data Source)
-
-GitHub (Project hosting & version control)
-
-
-
----
-
-📂 Project Structure
-
-Road-Accident-Analysis/
-│
-├── Dashboard/
-│   └── Road_Accident_Dashboard.twbx
-│
-├── Data/
-│   └── Road_Accident_Data.xlsx
-│
-├── Images/
-│   └── Dashboard_Preview.png
-│
-└── README.md
-
-
----
-
-🖼 Dashboard Preview
-
-Add a screenshot of your dashboard here
-
+## Dashboard Preview
+ screenshot of dashboard here
 ![Road Accident Dashboard](Images/Dashboard_Preview.png)
 
+## Insights Gained
+- Most fatal casualties occur on dry road surfaces
+- Certain vehicle types contribute significantly to fatal accidents
+- Accident severity varies notably by weather condition
+- Specific regions show high accident concentration
 
----
-
-🚀 How to Use
-
-1. Download the .twbx Tableau file from the Dashboard folder
-
-
-2. Open it using Tableau Desktop
-
-
-3. Use the filters to explore accident trends and insights
-
-
-
-
----
-
-📌 Insights Gained
-
-Most fatal casualties occur on dry road surfaces
-
-Certain vehicle types contribute significantly to fatal accidents
-
-Accident severity varies notably by weather condition
-
-Specific regions show high accident concentration
-
-
-
----
-
-📎 Future Enhancements
-
-Add monthly trend analysis
-
-Include predictive analytics
-
-Integrate real-time accident data
-
-Create a Tableau Public live link
-
-
-
----
-
-👤 Author
+## Author
 
 Seema Limbuche
 Aspiring Data Analyst
 Skills: SQL | Python | Tableau | Data Visualization
 
-🔗 GitHub Profile: Add your GitHub link here
-🔗 LinkedIn: Add your LinkedIn link here
+🔗 GitHub Profile: [Add your GitHub link here](https://github.com/SeemaLimbuche)
+🔗 LinkedIn: www.linkedin.com/in/seemalimbuche
